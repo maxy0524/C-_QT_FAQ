@@ -1,0 +1,2 @@
+# C-_QT_FAQ
+C++ QT FAQ
